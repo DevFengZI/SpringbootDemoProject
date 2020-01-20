@@ -8,6 +8,7 @@
       <list>
         <option value="$PROJECT_DIR$/demo1hellerworld/pom.xml" />
         <option value="$PROJECT_DIR$/demo2serviceapi/pom.xml" />
+        <option value="$PROJECT_DIR$/logback/pom.xml" />
       </list>
     </option>
   </component>

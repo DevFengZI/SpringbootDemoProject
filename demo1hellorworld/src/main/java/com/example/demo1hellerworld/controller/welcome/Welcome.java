@@ -13,6 +13,7 @@ import org.springframework.web.bind.annotation.RestController;
 public class Welcome {
     @Autowired
     SayHelloService sayHelloService;
+
     @RequestMapping("say")
 
     public String doWelcome(String string) {
