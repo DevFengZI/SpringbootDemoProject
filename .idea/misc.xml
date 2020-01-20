@@ -10,6 +10,7 @@
         <option value="$PROJECT_DIR$/demo2serviceapi/pom.xml" />
         <option value="$PROJECT_DIR$/logback/pom.xml" />
         <option value="$PROJECT_DIR$/demo3logback/pom.xml" />
+        <option value="$PROJECT_DIR$/demo4thymeleaf/pom.xml" />
       </list>
     </option>
   </component>

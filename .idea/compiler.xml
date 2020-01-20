@@ -9,12 +9,14 @@
         <module name="demo1hellorworld" />
         <module name="demo2serviceapi" />
         <module name="demo3logback" />
+        <module name="demo4thymeleaf" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="demo1hellorworld" target="1.8" />
       <module name="demo2serviceapi" target="1.8" />
       <module name="demo3logback" target="1.8" />
+      <module name="demo4thymeleaf" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

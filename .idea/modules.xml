@@ -6,6 +6,7 @@
       <module fileurl="file://$PROJECT_DIR$/demo1hellorworld/demo1hellorworld.iml" filepath="$PROJECT_DIR$/demo1hellorworld/demo1hellorworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo2serviceapi/demo2serviceapi.iml" filepath="$PROJECT_DIR$/demo2serviceapi/demo2serviceapi.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo3logback/demo3logback.iml" filepath="$PROJECT_DIR$/demo3logback/demo3logback.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo4thymeleaf/demo4thymeleaf.iml" filepath="$PROJECT_DIR$/demo4thymeleaf/demo4thymeleaf.iml" />
     </modules>
   </component>
 </project>

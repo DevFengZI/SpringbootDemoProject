@@ -1,12 +1,13 @@
-package com.example.demo3log.logback;
+package com.example.demo4thymeleaf;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class LogbackApplication {
+public class Demo4thymeleafApplication {
+
     public static void main(String[] args) {
-        SpringApplication.run(LogbackApplication.class, args);
+        SpringApplication.run(Demo4thymeleafApplication.class, args);
     }
 
 }
