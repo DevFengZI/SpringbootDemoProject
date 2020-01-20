@@ -5,6 +5,7 @@
       <module fileurl="file://$PROJECT_DIR$/.idea/Springbootdemo.iml" filepath="$PROJECT_DIR$/.idea/Springbootdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo1hellorworld/demo1hellorworld.iml" filepath="$PROJECT_DIR$/demo1hellorworld/demo1hellorworld.iml" />
       <module fileurl="file://$PROJECT_DIR$/demo2serviceapi/demo2serviceapi.iml" filepath="$PROJECT_DIR$/demo2serviceapi/demo2serviceapi.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo3logback/demo3logback.iml" filepath="$PROJECT_DIR$/demo3logback/demo3logback.iml" />
     </modules>
   </component>
 </project>

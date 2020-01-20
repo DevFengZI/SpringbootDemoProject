@@ -19,7 +19,6 @@ public class Welcome {
     public String doWelcome(String string) {
         return sayHelloService.addStr(string);
     }
-
 //    public UserInfoBean getUserInfo(HttpServletRequest httpServletRequest) {
 //
 //    }
