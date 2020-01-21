@@ -29,6 +29,13 @@ public class LoginInfo {
     public void setSave(boolean save) {
         isSave = save;
     }
+
+    public LoginInfo(String userName, String passWorld, boolean isSave) {
+        this.userName = userName;
+        this.passWorld = passWorld;
+        this.isSave = isSave;
+    }
+
     private String userName;
     private String passWorld;
     private boolean isSave;
